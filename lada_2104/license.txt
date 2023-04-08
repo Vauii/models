@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lada 2104
+* source:	https://sketchfab.com/3d-models/lada-2104-d3ca92dfd362411998ecd99037a569c5
+* author:	Staks (https://sketchfab.com/staks.ru)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lada 2104" (https://sketchfab.com/3d-models/lada-2104-d3ca92dfd362411998ecd99037a569c5) by Staks (https://sketchfab.com/staks.ru) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
